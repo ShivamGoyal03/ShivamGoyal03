@@ -23,3 +23,5 @@
         <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-090&theme=radical&langs_count=8&card_width=445&layout=compact" />
     </a><br>   
 </p>
+
+![](https://komarev.com/ghpvc/?username=Shivam-090&style=flat-square)
