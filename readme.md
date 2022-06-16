@@ -9,7 +9,7 @@
 </p>
 
  <!-- welcome message -->
- ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"> , I'm Shivam
+ ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px" height="30px"> , I'm Shivam
 <br>
 
 
