@@ -25,4 +25,3 @@
 </p>
 
 ![](https://komarev.com/ghpvc/?username=Shivam-090&style=flat-square)
-[![@shivam_01's Holopin board](https://holopin.io/api/user/board?user=shivam_01)](https://holopin.io/@shivam_01)
