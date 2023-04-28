@@ -1,7 +1,7 @@
 <img src = "./assets/banner.JPG" width = "100%"/>
 
 <p align="center">
-    <a href="https://github.com/Shivam-090">
+    <a href="https://github.com/ShivamGoyal03">
         <br>
         <img src="./assets/github.png" width="30px" />
     </a>
@@ -16,12 +16,12 @@
 ### 🔖 My Statistics
 &nbsp;
 <p align="center">
-    <a href = "https://github.com/Shivam-090">
-        <img src = "https://github-readme-stats.vercel.app/api?username=Shivam-090&hide=issues,prs&count_private=true&show_owner=true&show_icons=true&theme=radical" />
+    <a href = "https://github.com/ShivamGoyal03">
+        <img src = "https://github-readme-stats.vercel.app/api?username=ShivamGoyal03&hide=issues,prs&count_private=true&show_owner=true&show_icons=true&theme=radical" />
     </a><br>
-    <a href = "https://github.com/Shivam-090">
-        <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-090&theme=radical&langs_count=8&card_width=445&layout=compact" />
+    <a href = "https://github.com/ShivamGoyal03">
+        <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamGoyal03&theme=radical&langs_count=8&card_width=445&layout=compact" />
     </a><br>   
 </p>
 
-![](https://komarev.com/ghpvc/?username=Shivam-090&style=flat-square)
+![](https://komarev.com/ghpvc/?username=ShivamGoyal03&style=flat-square)
