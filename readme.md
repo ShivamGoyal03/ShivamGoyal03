@@ -15,7 +15,7 @@ I'm a **Microsoft MVP** and an AI engineer passionate about building agentic sys
 > I believe in democratizing AI, empowering developers through community skilling, and bridging industry with academia.
 
 ## 🏅 Open Source & Community Contributions
-- **Core contributor to [MCP for Beginners](https://github.com/microsoft/mcp-for-beginners)** — Authored hands-on labs and code samples for custom MCP server/client, and created the Advanced Topic lesson on Web Search MCP. My work focused on practical implementation, showing developers how to build, extend, and integrate custom MCP servers and clients for real-world AI agent interoperability.
+- **Key contributor to [MCP for Beginners](https://github.com/microsoft/mcp-for-beginners)** — Authored hands-on labs and code samples for custom MCP server/client, and created the Advanced Topic lesson on Web Search MCP. My work focused on practical implementation, showing developers how to build, extend, and integrate custom MCP servers and clients for real-world AI agent interoperability.
 - **Key contributor to [AI Agents for Beginners](https://github.com/microsoft/ai-agents-for-beginners)** — Developed the Agentic RAG code sample (with its own repo), and authored the 11th MCP lesson featuring code for 3 agents and an MCP server. My contributions help learners understand and build agentic systems, multi-agent orchestration, and retrieval-augmented generation with real, production-grade code.
 - **Speaker & Mentor** at Microsoft Reactor, Azure AI Foundry, and open-source events, helping **hundreds of developers** get started with AI agents and MCP.
 
