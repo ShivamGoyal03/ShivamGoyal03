@@ -29,6 +29,9 @@ I'm a **Microsoft MVP** and an AI engineer passionate about building agentic sys
   <a href="https://techcommunity.microsoft.com/users/shivamgoyal03/2181140" target="_blank">
     <img src="https://img.shields.io/badge/Tech_Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Tech Blog" />
   </a>
+  <a href="https://techcommunity.microsoft.com/users/shivamgoyal/2694803" target="_blank">
+    <img src="https://img.shields.io/badge/Main_Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Tech Blog" />
+  </a>
   <a href="https://mvp.microsoft.com/en-US/MVP/profile/0a1c7e7f-2812-41aa-9f70-96f5f18ce83d" target="_blank">
     <img src="https://img.shields.io/badge/Microsoft_MVP-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft MVP" />
   </a>
@@ -42,7 +45,7 @@ I'm a **Microsoft MVP** and an AI engineer passionate about building agentic sys
   <img src="https://img.shields.io/badge/Azure_AI-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure AI" />
   <img src="https://img.shields.io/badge/LLM-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="LLM" />
   <img src="https://img.shields.io/badge/AI_Agents-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="AI Agents" />
-</div>
+</div>... and more
 
 ## 📈 GitHub Stats
 
