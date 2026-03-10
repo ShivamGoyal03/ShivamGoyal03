@@ -49,12 +49,20 @@ I'm a **Microsoft MVP** and an AI engineer passionate about building agentic sys
 
 ## 📈 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ShivamGoyal03&hide=issues,prs&count_private=true&show_owner=true&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamGoyal03&theme=radical&langs_count=8&card_width=445&layout=compact" alt="Top Languages" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivamGoyal03&theme=radical" alt="GitHub Streak" />
+</div> -->
+
+<div align="center">
+  <img src="./stats/main.svg" alt="GitHub Stats" />
+  <br/>
+  <img src="./stats/langs.svg" alt="Top Languages" />
+  <br/>
+  <img src="./stats/streak.svg" alt="GitHub Streak" />
 </div>
 
 <div align="center">
