@@ -2,12 +2,14 @@ name: Update README cards
 
 on:
   schedule:
-    - cron: "0 3 * * *" # Runs at 3 AM daily
-  workflow_dispatch: # Allows manual trigger
+    - cron: "0 3 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # Ensures the action can push files back to your repo
     steps:
       - uses: actions/checkout@v4
 
@@ -17,6 +19,7 @@ jobs:
       - name: Generate GitHub Stats Card
         uses: readme-tools/github-readme-stats-action@v1
         with:
+          card: stats # <--- This fixes the "Input required: card" error
           options: username=ShivamGoyal03&hide=issues,prs&count_private=true&show_owner=true&show_icons=true&theme=radical
           path: stats/main.svg
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -29,7 +32,6 @@ jobs:
           path: stats/langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # Note: For Streak, we use a simple curl/wget because there isn't a dedicated action
       - name: Generate Streak Card
         run: |
           curl "https://github-readme-streak-stats.herokuapp.com/?user=ShivamGoyal03&theme=radical" > stats/streak.svg
