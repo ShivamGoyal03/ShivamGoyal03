@@ -14,16 +14,6 @@
 
 ---
 
-<div align="center">
-
-| 91.7k+ | 68.7k+ | Microsoft MVP |
-|:---:|:---:|:---:|
-| Article Views on Microsoft Tech Community | Community Reach via Microsoft AI Repo | Microsoft Foundry Category |
-
-</div>
-
----
-
 ## About Me
 
 I'm an **AI Engineer** specializing in **Agentic AI**, **Large Language Models (LLMs)**, and **Azure OpenAI** - designing multi-agent systems, RAG pipelines, and production-ready AI solutions using Python, Semantic Kernel, and Microsoft Foundry.
@@ -33,9 +23,8 @@ As a **Microsoft MVP in Microsoft Foundry**, I collaborate with product teams, c
 - **Microsoft MVP** - Microsoft Foundry category
 - **Senior Data Analyst @ EY** - building AI solutions for clients
 - **Maintainer** of official Azure AI samples
-- Published **91.7k+ views** on Microsoft Tech Community
-- **Technical speaker** - Azure AI, MCP, Agent Frameworks
-
+- **Technical Author** on Microsoft Tech Community
+- **Technical Speaker** - Azure AI, MCP, Agent Frameworks
 
 ---
 
@@ -116,20 +105,13 @@ Selected AI systems and open-source projects focused on agent frameworks, RAG pi
 
 ## Articles
 
-Published on **Microsoft Tech Community** with 91.7k+ views across Azure AI, LLMOps, and Agentic AI tutorials.
+Published on **Microsoft Tech Community** covering Azure AI, LLMOps, and Agentic AI tutorials. 
 
-**Latest - [Stop Drawing Architecture Diagrams Manually - AI Architecture Review Sample](https://shivamgoyal03.github.io/articles/projects/agent-architecture-review-sample-article)** · 1.4k+ views
+📰 **Latest Article:** 👉 [**Stop Drawing Architecture Diagrams Manually - Meet the Open Source AI Architecture Review Sample**](https://techcommunity.microsoft.com/blog/educatordeveloperblog/stop-drawing-architecture-diagrams-manually-meet-the-open-source-ai-architecture/4496271)
 
-<summary><b>More articles</b></summary>
-<br>
-
-| Article | Views |
-|---|---|
-| [Step-by-Step Tutorial: Building an AI Agent Using Microsoft Foundry](https://shivamgoyal03.github.io/articles/guides/azure-ai-agent-tutorial) | 16k+ |
-| [Getting Started With Azure AI Studio](https://shivamgoyal03.github.io/articles/guides/azure-ai-studio-guide) | 16k+ |
-| [Exploring AI Development: A Journey through Contoso Chat and LLM Ops](https://shivamgoyal03.github.io/articles/guides/ai-dev-management-llmops) | 14.7k+ |
-
-[View all articles](https://shivamgoyal03.github.io/articles)
+**Explore all my posts across my profiles:**
+- 🌟 [**Primary Tech Community Profile (MVP Blog)**](https://techcommunity.microsoft.com/users/shivamgoyal/2694803)
+- 📚 [**Secondary Tech Community Profile**](https://techcommunity.microsoft.com/users/shivamgoyal03/2181140)
 
 ---
 
@@ -147,7 +129,9 @@ Published on **Microsoft Tech Community** with 91.7k+ views across Azure AI, LLM
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-blush-rho-13.vercel.app/api?username=ShivamGoyal03&hide=issues,prs&count_private=true&show_owner=true&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-blush-rho-13.vercel.app/api?username=ShivamGoyal03&count_private=true&show_owner=true&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats-blush-rho-13.vercel.app/api/top-langs/?username=ShivamGoyal03&layout=compact&theme=radical" alt="Top Languages" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivamGoyal03&theme=radical" alt="GitHub Streak" />
 </div>
@@ -161,8 +145,9 @@ Published on **Microsoft Tech Community** with 91.7k+ views across Azure AI, LLM
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://shivamgoyal03.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivam2003)
 [![Microsoft MVP](https://img.shields.io/badge/Microsoft_MVP-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://mvp.microsoft.com/en-US/MVP/profile/0a1c7e7f-2812-41aa-9f70-96f5f18ce83d)
-[![Tech Community](https://img.shields.io/badge/Tech_Community-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://techcommunity.microsoft.com/users/shivamgoyal03/2181140)
-[![MVP Blog](https://img.shields.io/badge/MVP_Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://techcommunity.microsoft.com/users/shivamgoyal/2694803)
+[![Primary Tech Community](https://img.shields.io/badge/Tech_Community_(Primary)-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://techcommunity.microsoft.com/users/shivamgoyal/2694803)
+[![Secondary Tech Community](https://img.shields.io/badge/Tech_Community_(Secondary)-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://techcommunity.microsoft.com/users/shivamgoyal03/2181140)
+
 
 <img src="https://komarev.com/ghpvc/?username=ShivamGoyal03&color=blueviolet&style=flat-square" alt="Profile Views" />
 
