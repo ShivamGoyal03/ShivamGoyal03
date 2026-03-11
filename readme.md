@@ -107,9 +107,9 @@ As a **Microsoft MVP in Microsoft Foundry**, I collaborate with product teams, c
 
 <summary><b>Featured Project</b></summary>
 
-| Project | Description | Tech Stack | Link | Stats | Role |
-|:---|:---|:---|:---|:---:|:---:|
-| [**Agent Architecture Review Sample**](https://github.com/Azure-Samples/agent-architecture-review-sample) | Official Azure Sample that reviews architecture inputs, detects risks, and generates interactive Excalidraw + PNG diagrams via CLI, API, and hosted UI. | Python · Microsoft Agent Framework · Azure OpenAI · FastAPI · React · MCP | [![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Azure-Samples/agent-architecture-review-sample) | [![Stars](https://img.shields.io/github/stars/Azure-Samples/agent-architecture-review-sample)](https://github.com/Azure-Samples/agent-architecture-review-sample/stargazers) | Maintainer (Azure Samples) |
+| Project | Description | Link | Stats | Role |
+|:---|:---|:---|:---:|:---:|
+| [**Agent Architecture Review Sample**](https://github.com/Azure-Samples/agent-architecture-review-sample) | Official Azure Sample that reviews architecture inputs, detects risks, and generates interactive Excalidraw + PNG diagrams | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=whit)](https://github.com/Azure-Samples/agent-architecture-review-sample) | [![Stars](https://img.shields.io/github/stars/Azure-Samples/agent-architecture-review-sample)](https://github.com/Azure-Samples/agent-architecture-review-sample/stargazers) | Maintainer (Azure Samples) |
 
 
 ---
