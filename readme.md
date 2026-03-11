@@ -30,9 +30,16 @@ As a **Microsoft MVP in Microsoft Foundry**, I collaborate with product teams, c
 
 ## Core Expertise
 
-<div align="center">
+<div align="left">
 
-**Agent Frameworks**
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Agent Frameworks & AI Tooling**
 
 ![Semantic Kernel](https://img.shields.io/badge/Semantic_Kernel-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 ![AutoGen](https://img.shields.io/badge/AutoGen-FF6F00?style=flat-square&logo=microsoft&logoColor=white)
@@ -40,27 +47,61 @@ As a **Microsoft MVP in Microsoft Foundry**, I collaborate with product teams, c
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7B2FBE?style=flat-square&logoColor=white)
 ![MCP](https://img.shields.io/badge/Model_Context_Protocol-4B0082?style=flat-square&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 
-**Cloud & AI Platforms**
+**Cloud, Architecture & DevOps**
 
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Microsoft Foundry](https://img.shields.io/badge/Microsoft_Foundry-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Foundry Local](https://img.shields.io/badge/Foundry_Local-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Azure Functions](https://img.shields.io/badge/Azure_Functions-0062AD?style=flat-square&logo=azure-functions&logoColor=white)
+![Azure App Service](https://img.shields.io/badge/App_Service-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+**Databases & Storage**
+
 ![Azure AI Search](https://img.shields.io/badge/Azure_AI_Search-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Azure Cosmos DB](https://img.shields.io/badge/Cosmos_DB-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Azure Blob Storage](https://img.shields.io/badge/Blob_Storage-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**Languages & Tools**
+**Data Science & Machine Learning**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Web & APIs**
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Chainlit](https://img.shields.io/badge/Chainlit-F8B400?style=flat-square&logoColor=white)
+
+**Developer Tools**
+
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 </div>
 
 ---
 ## Explore My Portfolio
 
-[![Portfolio](https://image.thum.io/get/width/1200/https://shivamgoyal03.github.io/)](https://shivamgoyal03.github.io/)
+[![Portfolio](https://image.thum.io/get/width/1200/refresh/https://shivamgoyal03.github.io/)](https://shivamgoyal03.github.io/)
 
 ## Projects
 
