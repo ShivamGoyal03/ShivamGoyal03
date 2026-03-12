@@ -82,7 +82,6 @@ As a **Microsoft MVP in Microsoft Foundry**, I collaborate with product teams, c
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
@@ -125,13 +124,6 @@ As a **Microsoft MVP in Microsoft Foundry**, I collaborate with product teams, c
 | [**StructureIQ**](https://github.com/ShivamGoyal03/StructureIQ) | Automatically analyses architectural descriptions and delivers structured visual insights | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ShivamGoyal03/StructureIQ) | [![Stars](https://img.shields.io/github/stars/ShivamGoyal03/StructureIQ)](https://github.com/ShivamGoyal03/StructureIQ/stargazers) |
 | [**Agentic RAG**](https://github.com/ShivamGoyal03/Agentic-RAG) | Practical Agentic RAG examples using Semantic Kernel, AutoGen, and Azure AI Search | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ShivamGoyal03/Agentic-RAG) | [![Stars](https://img.shields.io/github/stars/ShivamGoyal03/Agentic-RAG)](https://github.com/ShivamGoyal03/Agentic-RAG/stargazers) |
 | [**FormPilot**](https://github.com/ShivamGoyal03/FormPilot) | Automation tool to fill out forms using AI | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ShivamGoyal03/FormPilot) | [![Stars](https://img.shields.io/github/stars/ShivamGoyal03/FormPilot)](https://github.com/ShivamGoyal03/FormPilot/stargazers) | 
-<br>
-
-<summary><b>AI Applications</b></summary>
-<br>
-
-| Project | Description | Link | Stars |
-|:---|:---|:---|:---:|
 | [**CodeNull**](https://shivamgoyal03.github.io/projects/flagship-projects/codenull) | AI-powered no-code builder that turns natural-language prompts into full-stack deployable web apps | [![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=flat-square&logo=firefox&logoColor=white)](https://shivamgoyal03.github.io/projects/flagship-projects/codenull) | - | 
 | [**LexiVerse**](https://github.com/ShivamGoyal03/LexiVerse) | AI writing assistant that generates on-brand marketing copy in seconds | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ShivamGoyal03/LexiVerse) | [![Stars](https://img.shields.io/github/stars/ShivamGoyal03/LexiVerse)](https://github.com/ShivamGoyal03/LexiVerse/stargazers) | 
 | [**Questro**](https://shivamgoyal03.github.io/projects/flagship-projects/questro) | Chat with PDF, DOCX, and TXT files using retrieval-augmented generation | [![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=flat-square&logo=firefox&logoColor=white)](https://shivamgoyal03.github.io/projects/flagship-projects/questro) | - | 
