@@ -98,9 +98,6 @@ As a **Microsoft MVP in Microsoft Foundry**, I collaborate with product teams, c
 </div>
 
 ---
-## Explore My Portfolio
-
-[![Portfolio](https://image.thum.io/get/width/1200/refresh/https://shivamgoyal03.github.io/)](https://shivamgoyal03.github.io/)
 
 ## Projects
 
