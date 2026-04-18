@@ -2,7 +2,7 @@
 
 # Heyy, I'm Shivam Goyal 👋
 
-**Microsoft MVP (AI) · Senior Data Analyst @ EY**
+**Microsoft MVP (AI) · Senior Analyst @ EY**
 
 **Designing Production-Ready Agentic AI Systems on Azure**
 
@@ -21,7 +21,7 @@ I'm an **AI Engineer** specializing in **Agentic AI**, **Large Language Models (
 As a **Microsoft MVP in Microsoft Foundry**, I collaborate with product teams, contribute to Microsoft AI repositories, and build real-world agentic AI implementations using Azure OpenAI and Microsoft Foundry.
 
 - **Microsoft MVP** - Microsoft Foundry category
-- **Senior Data Analyst @ EY** - building AI solutions for clients
+- **Senior Analyst @ EY** - building AI solutions for clients
 - **Maintainer** of official Azure AI samples
 - **Technical Author** on Microsoft Tech Community
 - **Technical Speaker** - Azure AI, MCP, Agent Frameworks
