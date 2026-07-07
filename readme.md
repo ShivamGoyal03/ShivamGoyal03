@@ -149,6 +149,7 @@ Published on **Microsoft Tech Community** covering Azure AI, LLMOps, and Agentic
 
 <div align="center">
 
+![Azure AI-103](https://img.shields.io/badge/Microsoft_Azure_AI_Apps_&_Agents_Developer_Associate-AI--103-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Azure AI-900](https://img.shields.io/badge/Microsoft_Azure_AI_Fundamentals-AI--900-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![AWS Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
@@ -163,7 +164,8 @@ Published on **Microsoft Tech Community** covering Azure AI, LLMOps, and Agentic
   <br/>
   <img src="https://github-readme-stats-blush-rho-13.vercel.app/api/top-langs/?username=ShivamGoyal03&layout=compact&theme=radical" alt="Top Languages" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivamGoyal03&theme=radical" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=ShivamGoyal03&theme=radical" alt="GitHub Streak" />
+
 </div>
 
 ---
